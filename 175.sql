@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+
 # result = pd.merge(person, address, on='personId', how='left')
 
 select Person.firstName, Person.lastName, Address.city, Address.state
